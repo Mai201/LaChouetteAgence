@@ -128,10 +128,6 @@ a:hover {
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
 .d-bloc h2 a,
-.d-bloc h3 a,
-.d-bloc h4 a,
-.d-bloc h5 a,
-.d-bloc h6 a,
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
 }
@@ -145,10 +141,6 @@ a:hover {
 .d-bloc a:hover .icon-xl,
 .d-bloc h1 a:hover,
 .d-bloc h2 a:hover,
-.d-bloc h3 a:hover,
-.d-bloc h4 a:hover,
-.d-bloc h5 a:hover,
-.d-bloc h6 a:hover,
 .d-bloc p a:hover {
     color: rgba(255, 255, 255, 1);
 }
@@ -226,10 +218,6 @@ a:hover {
 .l-bloc a .icon-xl,
 .l-bloc h1 a,
 .l-bloc h2 a,
-.l-bloc h3 a,
-.l-bloc h4 a,
-.l-bloc h5 a,
-.l-bloc h6 a,
 .l-bloc p a {
     color: rgba(0, 0, 0, .6);
 }
@@ -244,10 +232,6 @@ a:hover {
 .l-bloc a:hover .icon-xl,
 .l-bloc h1 a:hover,
 .l-bloc h2 a:hover,
-.l-bloc h3 a:hover,
-.l-bloc h4 a:hover,
-.l-bloc h5 a:hover,
-.l-bloc h6 a:hover,
 .l-bloc p a:hover {
     color: rgba(0, 0, 0, 1);
 }
@@ -283,7 +267,7 @@ a:hover {
     padding-left: 0;
 }
 
-#bloc-1-hero h1 {
+h1 {
     font-size: 32px;
 }
 
@@ -641,10 +625,6 @@ a[data-lightbox]:hover img {
 
 h1,
 h2,
-h3,
-h4,
-h5,
-h6,
 p,
 label,
 .btn,
@@ -705,11 +685,6 @@ p {
 }
 
 h2 {
-    font-size: 22px;
-    line-height: 1.4em;
-}
-
-h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
@@ -726,9 +701,6 @@ h1 {
     color: #333333!important;
 }
 
-h4 {
-    color: #333333!important;
-}
 
 .icons {
     margin-bottom: 14px;
@@ -896,10 +868,6 @@ h4 {
     }
     h1,
     h2,
-    h3,
-    h4,
-    h5,
-    h6,
     p,
     #disqus_thread {
         padding-left: 10px!important;
